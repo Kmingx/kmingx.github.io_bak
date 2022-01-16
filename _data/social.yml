@@ -1,9 +1,4 @@
 # This file contains meta data for various social media sites
-tistory:
-  name: tistory
-  icon: icon-link
-  prepend: "https://k-ming.tistory.com"
-
 email:
   name: Email
   icon: icon-mail
