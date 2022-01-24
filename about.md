@@ -1,29 +1,31 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
 hide_description: true
 redirect_from:
-  - /download/
+  -
 ---
+
 
 # About
 
 <!--author-->
 
-## Hydejack
+* * *
+<center>
+<span style=
+"font-size:170%;
+font-weight:bold">
+K-mingx
+</span>
+</center>
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+<center>MAJOR : AI EENGINEERING</center>
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+<center>Korean University</center>
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
-
-Hydejack's cover page on a variety of screen sizes.
+<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
 {:.figcaption}
 
 
