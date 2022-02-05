@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               hello
+tagline:               This is a personal page used as a photopolio
 
 # A list of keywords for your blog
 keywords:              []
@@ -53,6 +53,8 @@ menu:
     url:               /about/
   - title:             Project
     url:               /project/
+  - title:             Study
+    url:               /study/
   - title:             "Record"
     url:               https://imminent-ornament-da6.notion.site/d38089ef5a14486fa624a480eb649a11?v=fd2ab70ae62a469388b8cd797e83c56e
   - title:             "Blog"
