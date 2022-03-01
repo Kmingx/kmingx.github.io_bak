@@ -1,5 +1,6 @@
 ---
 layout: post
+category: project
 title: Hydejack, Stripe-ified
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
