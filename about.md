@@ -41,10 +41,10 @@ font-weight:bold">
 - 웍스컴바인(주) Data Engineer 2021.06 ~
 
 ## 프로젝트
-- [삼성전자와 삼성전자(우) 주식가치에 대한 분석](https://roogle6523.github.io/PortFolio/generic.html) [에이콘아카데미(강남)]
-- [머신러닝과 딥러닝을 활용한 앰플추천 시스템](https://roogle6523.github.io/PortFolio/generic2.html) [에이콘아카데미(강남)]
-- [BMW 거점분석]
-- [bmw startup garage PoC]
-- [SMTP을 활용한 자동이메일 보내기]
+- 에이콘아카데미(강남) [삼성전자와 삼성전자(우) 주식가치에 대한 분석](https://roogle6523.github.io/PortFolio/generic.html)
+- 에이콘아카데미(강남) [머신러닝과 딥러닝을 활용한 앰플추천 시스템](https://roogle6523.github.io/PortFolio/generic2.html)
+- BMW 거점분석
+- bmw startup garage PoC
+- SMTP을 활용한 자동이메일 보내기
 ## 인적검사
 ![Full-width image](../assets/img/personality.PNG){:.lead width="800" height="100" loading="lazy"}
