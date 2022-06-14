@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url:                   https://kmingx.github.io
+url:                   https://kmingx.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -45,6 +45,7 @@ author:
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
+
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -86,8 +87,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
