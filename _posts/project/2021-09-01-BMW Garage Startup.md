@@ -11,7 +11,6 @@ accent_image:
   background: url('/assets/img/project/bmwstartupfarage.gif') center/cover
   overlay: true
 ---
-[GitHub Code Link](https://github.com/Kmingx/Acorn-Academy/tree/main/project/01.%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 #### BMW Garage Startup란 ?
     BMW Startup Garage는 개발, 생산, 서비스 등의 부문에서 4차 산업 기술과 비전을 보유한 스타트업을 발굴하여
     수십조 달러 규모의 자동차 산업과 함께하는 파트너사를 선정하는 프로그램이다.
