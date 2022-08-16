@@ -14,4 +14,4 @@ accent_image:
 ## HTML Day -2
 
 ---
-22/08/16 html 진행 예정ㅁㄴㅇ
+22/08/17 
