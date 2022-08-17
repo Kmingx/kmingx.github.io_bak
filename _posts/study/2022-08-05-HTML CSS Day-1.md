@@ -2,6 +2,7 @@
 layout: post
 category: study
 title: HTML Day -1
+comments: true
 description: >
  웹페이지 구성요소
 sitemap: false
