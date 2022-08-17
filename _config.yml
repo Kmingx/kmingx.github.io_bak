@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://kmingx.github.io
+#url:                   https://kmingx.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -89,8 +89,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
@@ -181,9 +181,29 @@ kramdown:
 # To remove Google Anaylics from your page, remove the line below.
 # google_analytics:      UA-XXXXXXXX-X
 
+comments:
+  # 'disqus' or 'utterances' are available
+  provider:            giscus
+
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
- disqus:                kmingx
+ disqus:                kmingxgithub
+
+utterances:
+  repo:                "kmingx/kmingx.github.io"
+  issue-term:          "pathname"
+  label:               "Comments"
+  theme:               "dark-blue"
+
+giscus:
+  repo: "kmingx/kmingx.github.io"
+  repo-id: "R_kgDOGrvhYA"
+  category: "Announcements"
+  category-id: "DIC_kwDOGrvhYM4CQ3rL"
+  mapping: "pathname"
+  reaction-enabled: "1"
+  theme: "light"
+  crossorigin: "anonymous"
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
