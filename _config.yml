@@ -202,7 +202,9 @@ giscus:
   category-id: "DIC_kwDOGrvhYM4CQ3rL"
   mapping: "pathname"
   reaction-enabled: "1"
+  data-emit-metadata:  "0"
   theme: "light"
+  data-lang: "ko"
   crossorigin: "anonymous"
 
 # Setting a tinyletter username will enable the newsletter subscription box.
