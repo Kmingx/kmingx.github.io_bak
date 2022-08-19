@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url:                   https://kmingx.github.io
+url:                   https://kmingx.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -19,8 +19,11 @@
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  ko-KR, en-US
 
+
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 K-ming
+
+timezone:              Asia/Seoul
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -44,6 +47,7 @@ author:
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
+
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -57,19 +61,19 @@ menu:
     url:               /study/
   - title:             "Record"
     url:               https://imminent-ornament-da6.notion.site/d38089ef5a14486fa624a480eb649a11?v=fd2ab70ae62a469388b8cd797e83c56e
-  - title:             "Blog"
-    url:               https://k-ming.tistory.com/
+#  - title:             "Blog"
+#    url:               https://k-ming.tistory.com/
 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             About
+    url:               /about/
+  - title:             Project
+    url:               /project/
+  - title:             Study
+    url:               /study/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -85,8 +89,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
@@ -141,10 +145,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -177,9 +181,31 @@ kramdown:
 # To remove Google Anaylics from your page, remove the line below.
 # google_analytics:      UA-XXXXXXXX-X
 
+comments:
+  # 'disqus' or 'utterances' are available
+  provider:            giscus
+
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+# disqus:                kmingxgithub
+
+#utterances:
+#  repo:                "kmingx/kmingx.github.io"
+#  issue-term:          "pathname"
+#  label:               "Comments"
+#  theme:               "dark-blue"
+
+giscus:
+  repo: "kmingx/kmingx.github.io"
+  repo-id: "R_kgDOGrvhYA"
+  category: "Announcements"
+  category-id: "DIC_kwDOGrvhYM4CQ3rL"
+  mapping: "pathname"
+  reaction-enabled: "1"
+  data-emit-metadata:  "0"
+  theme: "light"
+  data-lang: "ko"
+  crossorigin: "anonymous"
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
