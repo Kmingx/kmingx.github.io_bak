@@ -189,11 +189,11 @@ comments:
 # pages with `comments: true` in the front matter.
 # disqus:                kmingxgithub
 
-utterances:
-  repo:                "kmingx/kmingx.github.io"
-  issue-term:          "pathname"
-  label:               "Comments"
-  theme:               "dark-blue"
+#utterances:
+#  repo:                "kmingx/kmingx.github.io"
+#  issue-term:          "pathname"
+#  label:               "Comments"
+#  theme:               "dark-blue"
 
 giscus:
   repo: "kmingx/kmingx.github.io"
