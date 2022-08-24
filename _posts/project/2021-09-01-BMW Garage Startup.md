@@ -10,6 +10,10 @@ hide_last_modified: true
 accent_image: 
   background: url('/assets/img/project/bmwstartupfarage.gif') center/cover
   overlay: true
+related_posts:
+    - _posts/project/2021-06-15-BMW 신규 거점 분석.md
+    - _posts/project/2022-01-20-SNS데이터수집.md
+    - _posts/project/2022-02-20-업무 프로세스 자동화 프로그램 개발.md
 ---
 #### BMW Garage Startup란 ?
     BMW Startup Garage는 개발, 생산, 서비스 등의 부문에서 4차 산업 기술과 비전을 보유한 스타트업을 발굴하여
