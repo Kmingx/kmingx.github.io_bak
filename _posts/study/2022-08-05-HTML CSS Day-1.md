@@ -77,3 +77,4 @@ accent_image:
 HTML의 웹 구조는 해당 그림처럼 각 구간으로 구분하여 설계 된다.
 
 ![Untitled](/assets/img/study/HTML%20day-01%20849cfa1f03ba49ab8d25ac6a0011a1d2/Untitled%205.png)
+asdasd
