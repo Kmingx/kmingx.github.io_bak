@@ -35,6 +35,7 @@ font-weight:bold">
 - 웍스컴바인(주) Data Engineer 2021.06 ~ 2022.06
 
 ## 프로젝트
+- [음성분류 모델을 활용한 키오스크 개발](https://kmingx.github.io/project/2022-11-19-%EC%9D%8C%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 - [SMTP을 활용한 자동이메일 보내기](https://kmingx.github.io/project/2022-02-20-%EC%97%85%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C/)
 - [SNS 데이터 수집](https://kmingx.github.io/project/2022-01-20-SNS%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%88%98%EC%A7%91/)
 - [BMW Startup Garage PoC](https://kmingx.github.io/project/2021-09-01-BMW-Garage-Startup/)
