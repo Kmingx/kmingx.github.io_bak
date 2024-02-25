@@ -56,16 +56,16 @@ related_posts:
 
 ### 뉴스레터 전처리
 
-![Untitled](/assets/img/project/20240224_ChatGpt/Untitled01.png)
+![Untitled](/assets/img/project/20240224_ChatGpt/Untitled1.png)
 
 HTML 기반으로 날라오는 뉴스레터 Data을 GPT을통해 재가공 하기위해 데이터를 전처리 진행합니다.
 
-![Untitled](/assets/img/project/20240224_ChatGpt/Untitled02.png)
+![Untitled](/assets/img/project/20240224_ChatGpt/Untitled2.png)
 
 HTML → Text로 전처리 진행 후 GPT로 본문 요약 
 결과물
 
-![Untitled](/assets/img/project/20240224_ChatGpt/Untitled03.png)
+![Untitled](/assets/img/project/20240224_ChatGpt/Untitled3.png)
 
 [https://cgom.tistory.com/40](https://cgom.tistory.com/40)
 
