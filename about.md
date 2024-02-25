@@ -39,6 +39,7 @@ font-weight:bold">
 | 2021.06 ~ 2022.06            | 웍스컴바인(주)         | Data Engineer       |
 
 ## 프로젝트
+- [생성AI(ChatGPT)을 활용한 컨첸츠 자동생성](https://kmingx.github.io/project/2024-02-24-%EC%83%9D%EC%84%B1AI(ChatGPT)-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BB%A8%ED%85%90%EC%B8%A0-%EC%9E%90%EB%8F%99%EC%83%9D%EC%84%B1/)
 - [KB증권 하둡마이그레이션 프로젝트](https://kmingx.github.io/project/2024-01-31-KB%EC%A6%9D%EA%B6%8C-%ED%95%98%EB%91%A1%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 - [음성분류 모델을 활용한 키오스크 개발](https://kmingx.github.io/project/2022-11-19-%EC%9D%8C%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 - [전기차 보조금업무 프로세스 자동화](https://kmingx.github.io/project/2022-02-20-%EC%97%85%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C/)

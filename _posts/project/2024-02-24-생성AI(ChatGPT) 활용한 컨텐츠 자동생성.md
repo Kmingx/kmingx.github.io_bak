@@ -8,7 +8,7 @@ sitemap: false
 hide_last_modified: true
 #image: /assets/img/project/pic04.jpg
 accent_image: 
-  background: url('/assets/img/project/221119%204228bba994274e338aeb9cdc80d1033b/Untitled%203.png') center/cover
+  background: url('/assets/img/project/20240224_ChatGpt/Untitled.png') center/cover
   overlay: true
 related_posts:
     - _posts/project/2021-06-15-BMW 신규 거점 분석.md
